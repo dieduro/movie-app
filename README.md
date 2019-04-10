@@ -2,6 +2,8 @@ This is a little side project I did for a tech interview.
 
 It shows a list of movies that you can search by name and also see some movie details by clicking on any of them.
 
+For any inquire you can contact me at diegomduro@gmail.com or as @diemduro on Twitter.
+
 ## Available Scripts
 
 In the project directory, you can run:
